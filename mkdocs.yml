@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: Web Paco
+docs_dir: md
+site_dir: docs
 
 nav:
     - INDICE : index.md
