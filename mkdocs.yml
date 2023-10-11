@@ -1,0 +1,10 @@
+site_name: My Docs
+
+nav:
+    - INDICE : index.md
+    - SUBPAGINA1 : pag1.md
+    - SUBPAGINA2 : pag2.md
+
+
+theme:
+    name: material
